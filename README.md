@@ -1,1 +1,0 @@
-# deteksi_kemacetan
